@@ -1,4 +1,4 @@
-# pythonthusiast-daftarbuku
+# Daftar Buku - sebuah proyek Pythonthusiast
 test penggunaan git
 
 ## Menggunakan GIT dengan Command Line
