@@ -28,6 +28,13 @@ test penggunaan git
 - Meng-commit kode, dan me-review pada perubahan file terlebih dahulu
 - mem-push branch tersebut
 
+## instalasi Git
+- Menggunakan Linux, cukup dengan apt install git
+- Menggunakan Windows dengan mendownload tool git di https://git-scm.com/downloads
+
 ## Kesimpulan
 - Dengan Git dan github, kode akan aman dari hard disk rusak
 - Memiliki repository yang Github yang publik, akan menjadikan repository tersebut sebagai portofolio
+
+
+
