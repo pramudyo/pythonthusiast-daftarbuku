@@ -19,6 +19,15 @@ test penggunaan git
 - Merubah di Github
 - Mem-pull dari lokal
 
+
+## Menggunakan GIT di Team
+- Mulai bekerja dengan melihat ke Issue tracker
+- Bekerja tidak pada master, namun pada branch tersediri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kode pada branch tersebut
+- Meng-commit kode, dan me-review pada perubahan file terlebih dahulu
+- mem-push branch tersebut
+
 ## Kesimpulan
 - Dengan Git dan github, kode akan aman dari hard disk rusak
 - Memiliki repository yang Github yang publik, akan menjadikan repository tersebut sebagai portofolio
