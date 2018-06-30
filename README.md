@@ -21,6 +21,7 @@ test penggunaan git
 
 
 ## Menggunakan GIT di Team
+- Pastikan menggunakan Pycharm terkini
 - Mulai bekerja dengan melihat ke Issue tracker
 - Bekerja tidak pada master, namun pada branch tersediri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
@@ -31,3 +32,4 @@ test penggunaan git
 ## Kesimpulan
 - Dengan Git dan github, kode akan aman dari hard disk rusak
 - Memiliki repository yang Github yang publik, akan menjadikan repository tersebut sebagai portofolio
+    
