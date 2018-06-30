@@ -21,7 +21,7 @@ test penggunaan git
 
 
 ## Menggunakan GIT di Team
-- Pastikan menggunakan Pycharm terkini, download di situsnya langsung
+- Pastikan menggunakan Pycharm terkini, download di situsnya langsung yang berada di situs http://jetbrains.com
 - Mulai bekerja dengan melihat ke Issue tracker
 - Bekerja tidak pada master, namun pada branch tersediri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
